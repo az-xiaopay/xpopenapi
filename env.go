@@ -1,4 +1,4 @@
-package xiaopay_openapi
+package xpopenapi
 
 type Env string
 

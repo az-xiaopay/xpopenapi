@@ -1,4 +1,4 @@
-package xiaopay_openapi
+package xpopenapi
 
 import (
 	"xpopenapi/xiaopay/xpapi/add_school_grade"
